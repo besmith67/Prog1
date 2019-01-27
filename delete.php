@@ -1,5 +1,6 @@
 <?php 
 	include 'database.php';
+
 	$id = 0;
 	
 	if ( !empty($_GET['id'])) {

@@ -1,6 +1,5 @@
 <?php 
 	
-	//require '../database/database.php';
         include 'database.php';
 
 	$id = null;

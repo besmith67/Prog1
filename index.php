@@ -10,7 +10,7 @@
     <div class="container">
     		<div class="row">
                     <a href="https://github.com/besmith67/Prog1">GitHub Link</a>
-    			<h3>PHP CRUD Grid</h3>
+    			<h3>Customers</h3>
     		</div>
 			<div class="row">
 				<p>
